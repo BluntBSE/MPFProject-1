@@ -56,3 +56,9 @@ slides:
     widgets:
       - text: ATTRACT MODE
         type: text
+
+keyboard:
+  x:
+    switch: s_left_flipper
+  c:
+    switch: s_right_flipper
